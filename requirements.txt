@@ -5,3 +5,4 @@ seaborn
 statsmodels
 prophet
 streamlit
+altair==4.2.2
